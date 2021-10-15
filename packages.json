@@ -1,7 +1,2 @@
 [
-    {
-        "package": "SCEPtER",
-        "oncran": true,
-        "url": "https://cran.r-project.org/package=SCEPtER"
-     }
 ]
